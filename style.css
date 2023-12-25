@@ -1,0 +1,94 @@
+body{
+  margin: 0;
+}
+
+.page{
+  margin: 0 auto;
+  background-color: #2F2E41;
+  width: 80rem;
+  padding-top: 4.44rem;
+}
+nav{
+  margin: 0 auto;
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  width: 67.6875rem;
+  height: 1.875rem;
+  margin-bottom: 6.31rem;
+}
+nav ul{
+  display: flex;
+  text-align: center;
+  list-style: none;
+  gap: 4rem;
+}
+nav ul li{
+  color: #FFFFFF;
+  font-size: 0.875rem;
+  font-family: JetBrains Mono;
+  font-weight: 500;
+  line-height: 1.75rem;
+}
+main{
+  margin: 0 auto;
+  display: flex;
+  width: 68.25rem;
+  height: 17.6875rem;
+  gap: 5.12rem;
+  margin-bottom: 9.81rem;
+}
+section{
+  width: 38.3725rem;
+  height: 17.31rem;
+  
+}
+h1{
+  margin: 0 auto;
+  color: #FFFFFF;
+  font-size: 2.25rem;
+  font-family: JetBrains Mono;
+  font-size: 2.25rem;
+  font-weight: bold;
+  line-height: 2.5rem;
+  margin-bottom: 3.69rem;
+}
+h1 span{
+  color: #00BFA6;
+}
+section p{
+  text-align: center;
+  color: #C2C2C2;
+  font-size: 1rem;
+  font-family: Open Sans;
+  font-weight: normal;
+  line-height: 1.75rem;
+}
+section p span{
+  color: #00BFA6;
+  font-weight: bold;
+}
+
+footer{
+  text-align: center;
+}
+.line{
+  margin: 0 auto;
+  width: 35.50006rem;
+  height: 0.0625rem;
+  border-top: 1px solid #00BFA6;
+  margin-bottom: 1.69rem;
+}
+footer p{
+  color: #FFFFFF;
+  font-family: JetBrains Mono;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.75rem;
+  padding-bottom: 1.44rem;
+}
+#lock{
+  position: fixed;
+  bottom: 1.25rem;
+  left: 4rem;
+}
